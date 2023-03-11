@@ -1,0 +1,172 @@
+body {
+	font-family: "Roboto", sans-serif;
+	color: #434455;
+}
+
+.link {
+	text-decoration: none;
+}
+
+.list {
+	list-style: none;
+}
+
+.hidden-title {
+	visibility: hidden;
+}
+
+.standard-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.standard-text {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+/* header */
+
+/* Nav */
+
+.title {
+	font-family: "Raleway", sans-serif;
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 1.17;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #4d5ae5;
+}
+
+.title>span {
+	color: #2e2f42;
+}
+
+.header-nav-a {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.header-nav-a:hover {
+	color: #404bbf;
+}
+
+.header-nav-a:focus {
+	color: #404bbf;
+}
+
+/* Address */
+
+.header-address {
+	font-style: normal;
+}
+
+.header-info-a {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.header-info-a:hover {
+	color: #404bbf;
+}
+
+.header-info-a:focus {
+	color: #404bbf;
+}
+
+
+/* Main */
+
+
+/* Introduction */
+
+.introduction {
+	background-color: #2e2f42;
+}
+
+.main-title {
+	font-size: 56px;
+	line-height: 1.07;
+	text-align: center;
+	letter-spacing: 0.02em;
+	color: #ffffff;
+}
+
+.introduction-button {
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.04em;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+/* Info-text */
+
+
+/* Info-pictures */
+
+.info-text-title {
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: #2e2f42;
+}
+
+
+/* Team */
+
+.team-title {
+	font-size: 36px;
+	line-height: 1.11;
+	letter-spacing: 0.02em;
+	text-align: center;
+	text-transform: capitalize;
+	color: #2e2f42;
+}
+
+/* footer */
+
+.footer {
+	background-color: #2e2f42;
+}
+
+.footer .title>span {
+	color: #f4f4fd;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* portfolio */
+
+.portfolio-nav-button {
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.04em;
+	color: #4d5ae5;
+	cursor: pointer;
+}
