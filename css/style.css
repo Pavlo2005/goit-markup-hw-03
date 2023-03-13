@@ -16,6 +16,10 @@ p {
 	margin: 0;
 }
 
+img {
+	display: inline-block;
+}
+
 .container {
 	width: 1158px;
 	padding: 0 15px;
@@ -60,8 +64,8 @@ p {
 
 /* header */
 
-.container-header {
-	padding: 24px 156px;
+.header {
+	padding: 24px 0;
 	border-bottom: 1px solid #E7E9FC;
 }
 
@@ -139,8 +143,7 @@ p {
 /* Introduction */
 
 .introduction {
-	padding: 188px 156px;
-
+	padding: 188px 0;
 	background-color: #2e2f42;
 }
 
@@ -182,7 +185,7 @@ p {
 /* Info-text */
 
 .info-text {
-	padding: 120px 156px 60px 156px;
+	padding: 120px 0 60px 0;
 }
 
 .info-text-li {
@@ -196,7 +199,7 @@ p {
 /* Info-pictures */
 
 .info-pictures {
-	padding: 60px 156px 120px 156px;
+	padding: 60px 0 120px 0;
 }
 
 .info-pictures-title {
@@ -217,7 +220,7 @@ p {
 /* Team */
 
 .team {
-	padding: 120px 156px 120px 156px;
+	padding: 120px 0 120px 0;
 	background-color: #F4F4FD;
 }
 
@@ -251,11 +254,12 @@ p {
 
 .footer {
 	background-color: #2e2f42;
-	padding: 100px 1020px 100px 156px;
+	padding: 100px 0;
 }
 
 .footer-container-text {
 	width: 264px;
+	margin: 0;
 }
 
 .footer-title {
